@@ -1,0 +1,10 @@
+[server]
+# Only reachable from this computer.
+address = "localhost"
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
